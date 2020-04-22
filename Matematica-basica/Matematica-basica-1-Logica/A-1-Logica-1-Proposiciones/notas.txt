@@ -1,0 +1,68 @@
+
+Proposición 
+
+Es un enunciado que es verdadero o falso, pero no ambos. 
+
+Ejemplos 
+
+Son proposiciones
+	Nota: las preposiciones deberán ser ciertas o falsas de lo contrario no serán una preposición.
+
+	--------------------------------------------------------------------------------------------------
+	-------------------------------------------------------------------------------------------------- 
+				Preposición 		Representación 		Negación 		Negación matemática 
+	--------------------------------------------------------------------------------------------------
+	--------------------------------------------------------------------------------------------------
+	1. (Obama es el presidente de los Estados Unidos)		:p 	 		 ~p
+	--------------------------------------------------------------------------------------------------
+	2. (Armando Maradona es Argentino)						:q 	 		 ~q
+	--------------------------------------------------------------------------------------------------
+	3. (París es la capital de Colombia)					:r 	 		 ~r
+	--------------------------------------------------------------------------------------------------
+	4. (5 + 3 = 8)											:s 			 ~s 		(5 + 3 != 8)
+	--------------------------------------------------------------------------------------------------
+	5. (4 > 10)												:t 	 		 ~t 		(4 <= 10)
+	--------------------------------------------------------------------------------------------------
+
+
+
+No son preposiciones
+	Nota: No son preposiciones los enunciados carentes de verdad o falsedad. 
+
+	1. (Que susto.)
+	2. (Dios mio.) 
+	3. (x + y > 5)
+	4. (1 + 7 es grande)
+
+
+Representación de las preposiciones 
+	La representación de las preposiciones  se realiza con dos putos seguido por una letra simbólica
+
+Propiedad fundamental de una proposición es; su valor de verdad. 
+
+
+
+
+--------------------------------------------------------------------------------------------------------
+¿Que es una proposición compuesta? 
+	Una proposición compuesta es aquella que esta conectada por operadores lógicos  y pueden contener infinitas proposiciones simples,las proposiciones simples expresan un valor verdadero no falso por si mismas.  
+
+
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+1. (2 - 2 = 4) 			(O)   				(Maradona es Argentino )
+-------------------------------------------------------------------------------------------------------
+2. (3 > 1)				(Y)  				(Bogotá es la capital de Colombia)
+-------------------------------------------------------------------------------------------------------
+3. (Si)  (2 * 2 = 4)	(Entonces) 			(5 > 1)
+-------------------------------------------------------------------------------------------------------
+4. (x = 3)				(Si y solo si) 		(x^2 = 9)
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------
+Referencia 
+https://www.youtube.com/watch?v=Xb9FvdCiNTw&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=1
+
