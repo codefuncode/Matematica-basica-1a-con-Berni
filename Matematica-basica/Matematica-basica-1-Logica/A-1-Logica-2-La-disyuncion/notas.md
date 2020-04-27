@@ -28,7 +28,7 @@ Las preposiciones compuestas son falsas solo cuando las dos condiciones de condi
 |||||
 (París  es la capital de Colombia)|o|(2 + 3 = 5)|V|
 |||||
-|(París  es la capital de Venezuela)|o|(2 + 2 = 4)|F|
+|(París  es la capital de Venezuela)|o|(2 + 2 = 20)|F|
 
 ---
 
