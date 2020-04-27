@@ -1,8 +1,18 @@
 
+Sección para seguimiento y anotaciones 
 
+Módulos 
 
-1) A. 1. Lógica: 1. Proposiciones
+Matemática básica 
+
+1. A. 1. Lógica: 1. Proposiciones
 https://www.youtube.com/watch?v=Xb9FvdCiNTw&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=1
 
-2) A.1. Lógica: 2. La disyunción.
+2. A.1. Lógica: 2. La disyunción.
 https://www.youtube.com/watch?v=VBGfdj8WdjY&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=2
+
+3. A.1. Lógica: 3. La conjunción (notas no completadas md)
+https://www.youtube.com/watch?v=jYFuxG3V92E&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=3
+
+4. A.1. Lógica: 3. La conjunción. Ejemplo
+https://www.youtube.com/watch?v=6UEObCvGTTM&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=4

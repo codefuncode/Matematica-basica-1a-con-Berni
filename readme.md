@@ -10,3 +10,5 @@ Modulos
 	1. A-1-Logica-1-Proposiciones
 
 	2. A-1-Logica-2-La-disyuncion
+
+	3. A.1. Lógica: 3. La conjunción 
