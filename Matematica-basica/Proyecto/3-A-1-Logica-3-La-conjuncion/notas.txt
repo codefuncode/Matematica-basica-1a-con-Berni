@@ -1,0 +1,9 @@
+Descripción del proyecto 
+
+
+En este  proyecto realizo la tabla de la verdad usando la conjunción matemática  y empleando JavaScript pata realizar la  automatización de resultados 
+
+
+(Conjunción)
+
+Este operador lógico relaciona dos proposiciones para formar una nueva, en la cual la proposición resultante será verdadera solamente cuando el valor de verdad de ambas proposiciones es verdadero. En español, la conjunción copulativa se presenta con los términos gramaticales: “y”, “pero”, “mas”, y signos de puntuación como: la coma, el punto, y el punto y coma.
