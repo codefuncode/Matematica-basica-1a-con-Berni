@@ -1,6 +1,9 @@
  @font-face {
      font-family: letra;
-     src: url(HechoAMano-Regular.ttf);
+     src: url(kindergarten.ttf);
+ }
+ p, h1, h2, h5, , h4, h3, td, tr {
+     font-family: letra;
  }
  * {
      font-family: letra;
@@ -32,6 +35,9 @@
  .tabla {
      padding: 50px;
      font-family: letra;
+     font-size: .8em;
+ }
+ table tr {
      font-size: .8em;
  }
  table {}
