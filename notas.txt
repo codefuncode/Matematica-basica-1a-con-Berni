@@ -37,6 +37,9 @@ https://www.youtube.com/watch?v=s7vvURS2ys4&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9
 008-A.1. Lógica: Aplicación tablas de verdad 2
 https://www.youtube.com/watch?v=ZGp7g3Iebs8&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=8
 
+009-A.1. Lógica: Ejemplo de entonces y equivalencia 1
+https://www.youtube.com/watch?v=P_6VDGjE5nI&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=9
+
 
 Nota
 ==================================================================
