@@ -1,56 +1,56 @@
- 
-Sección para seguimiento y anotaciones 
+-
+Seccion-para-seguimiento-y-anotaciones-
 
 Nota
-Se necesita agregar unas anotaciones en el fichero notas.txt dentro de cada modulo alojado 
+Se-necesita-agregar-unas-anotaciones-en-el-fichero-notas-txt-dentro-de-cada-modulo-alojado-
 
-Módulos 
+Modulos-
 
-Matemática básica 
+Matemática-básica-
 
-001 -A. 1. Lógica: 1. Proposiciones
+001--A-1-Logica-1-Proposiciones
 https://www.youtube.com/watch?v=Xb9FvdCiNTw&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=1
 
 
-002 -A.1. Lógica: 2. La disyunción.
+002--A-1-Logica-2-La-disyuncion-
 https://www.youtube.com/watch?v=VBGfdj8WdjY&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=2
 
 
-003 -A.1. Lógica: 3. La conjunción (notas no completadas md)
+003--A-1-Logica-3-La-conjuncion-(notas-no-completadas-md)
 https://www.youtube.com/watch?v=jYFuxG3V92E&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=3
 
 
-004 -A.1. Lógica: 3. La conjunción. Ejemplo
+004--A-1-Logica-3-La-conjuncion-Ejemplo
 https://www.youtube.com/watch?v=6UEObCvGTTM&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=4
 
 
-005 -A.1. Lógica: 4. La implicación. Tabla de verdad. Si solo si. 1
+005--A-1-Logica-4-La-implicacion-Tabla-de-verdad-Si-solo-si-1
 https://www.youtube.com/watch?v=pCqedt4oMxw&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=5
 
 
-006 -A-1-Logica4-La-implicacion-Tabla-de-verdad-2	(En poseso )
+006--A-1-Logica4-La-implicacion-Tabla-de-verdad-2	(En-poseso-)
 https://www.youtube.com/watch?v=qbWDvlihjAk&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=6
 
-007 -A.1. Lógica: Aplicación tablas de verdad 1
+007--A-1-Logica-Aplicacion-tablas-de-verdad-1
 https://www.youtube.com/watch?v=s7vvURS2ys4&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=7
 
-008-A.1. Lógica: Aplicación tablas de verdad 2
+008-A-1-Logica-Aplicacion-tablas-de-verdad-2
 https://www.youtube.com/watch?v=ZGp7g3Iebs8&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=8
 
-009-A.1. Lógica: Ejemplo de entonces y equivalencia 1
+009-A-1-Logica-Ejemplo-de-entonces-y-equivalencia-1
 https://www.youtube.com/watch?v=P_6VDGjE5nI&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=9
 
-010-A.1. Lógica: Ejemplo de entonces 2
+010-A-1-Logica-Ejemplo-de-entonces-2
 https://www.youtube.com/watch?v=v6qauas5tU8&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=10
 
-011-A.1. Lógica: 5. Tablas de verdad
+011-A-1-Logica-5-Tablas-de-verdad
 https://www.youtube.com/watch?v=boWp1fvCC68&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=11
 
 
 Nota
 ==================================================================
-Creando paguina web para le primer pproyecto 001 -A. 1. Lógica: 1. Proposiciones
+Creando-paguina-web-para-le-primer-pproyecto-001--A-1-Logica-1-Proposiciones
 ==================================================================
-Revisar bien el modulo 8
+Revisar-bien-el-modulo-8
 
 
