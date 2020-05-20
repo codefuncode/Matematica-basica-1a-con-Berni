@@ -46,7 +46,8 @@ https://www.youtube.com/watch?v=v6qauas5tU8&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9
 011-A-1-Logica-5-Tablas-de-verdad
 https://www.youtube.com/watch?v=boWp1fvCC68&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=11
 
-
+012-A-1-Logica-6-Repaso-de-tautologia-y-negaciones
+https://www.youtube.com/watch?v=zwJpuTpqr4A&list=PLCY1BPxILEJXAYAlc7ee9dd1q9w3O9t_h&index=12
 Nota
 ==================================================================
 Creando-paguina-web-para-le-primer-pproyecto-001--A-1-Logica-1-Proposiciones
